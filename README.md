@@ -28,4 +28,5 @@ Transparent text overlays for zoom level and iteration tracking
 
 Controls:
 W/A/S/D: Pan the view
+
 Up/Down Arrow Keys: Zoom in/out
