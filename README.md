@@ -13,6 +13,7 @@
    - Make sure Python is installed on your system!
 
 3. **Install Dependencies (if needed):**
+   
    If you encounter errors, you may need to install the required libraries:
 
    pip install pygame numpy PyOpenGL scipy matplotlib
@@ -22,8 +23,11 @@
 Features:
 
 Real-time fractal rendering with stunning visuals
+
 Adjustable zoom and pan controls
+
 Dynamic and colorful effects
+
 Transparent text overlays for zoom level and iteration tracking
 
 Controls:
